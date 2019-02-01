@@ -35,3 +35,6 @@ grep -E "geocities.com" regex_practice.txt > email_results.txt
 
 grep -E [a-zA-Z]{2}[0-9]{2} regex_practice.txt > command_results.txt
 
+git add .
+git commit -m "adding phone_results.txt, email_results.txt, and command_results.txt"
+
